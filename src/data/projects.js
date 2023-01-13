@@ -19,7 +19,7 @@ export const projectsData = [
     title: "Awesome Notes Application",
     subtitle: "React - Redux - MUI - Node - Sequelize - Postgres",
     content:
-      "Simple FullStack web application that allows you to take notes, tag and filter them.\nCredentials to log in:\nEmail: user@user.com\nPassword: password\nFrontend Technologies: React - Redux - Formik - Yup - SweetAlert - Material UI - Framer Motion.\nBackend Technologies: Node, Express, Sequelize, PostgreSQL, Jsonwebtoken.",
+      "FullStack web application that allows you to take notes, tag and filter them.\nCredentials to log in:\nEmail: user@user.com\nPassword: password\nFrontend Technologies: React - Redux - Formik - Yup - SweetAlert - Material UI - Framer Motion.\nBackend Technologies: Node, Express, Sequelize, PostgreSQL, Jsonwebtoken.",
     link: {
       code: "https://github.com/gonzalo-fuente/Awesome_Notes",
       page: "https://awesome-notes-react.netlify.app/",
@@ -31,7 +31,7 @@ export const projectsData = [
   },
   {
     id: 3,
-    title: "React Alkemy Challenge",
+    title: "La Cuisine de Ma Grand Mère",
     subtitle: "React - Redux - Thunk - Bootstrap",
     content:
       "Application to create a restaurant hotel menu that will show different attributes at item level and also at menu level.\nCredentials to log in:\nEmail: challenge@alkemy.org\nPassword: react",

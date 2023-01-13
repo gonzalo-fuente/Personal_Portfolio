@@ -6,7 +6,7 @@ function Introduction({
       Hi, I'm<strong>Gonzalo Fuente</strong>
     </>
   ),
-  subtitle = "Frontend Developer",
+  subtitle = "FullStack Developer",
   img = {
     src: profile,
     alt: "a portrait of Gonzalo Fuente",

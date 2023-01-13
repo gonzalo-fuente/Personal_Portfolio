@@ -5,15 +5,15 @@ function About() {
     <section className="about-me" id="about">
       <h2 className="section__title section__title--about">Who I am</h2>
       <p className="section__subtitle section__subtitle--about">
-        Jr. Frontend Developer <br />
-        specialized in React
+        Jr. FullStack Developer <br />
+        specialized in React and Python
       </p>
 
       <div className="about-me__body">
         <p>
-          Motivated web developer looking for a role as frontend developer in
-          the IT industry. A technology enthusiast, In ❤️ with React, passionate
-          about building first-class web applications.
+          Motivated developer looking for a role as fullstack developer in the
+          IT industry. A technology enthusiast, In ❤️ with React & Python,
+          passionate about building first-class applications.
         </p>
         <p>
           <em>

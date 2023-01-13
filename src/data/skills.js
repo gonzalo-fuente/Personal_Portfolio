@@ -26,32 +26,67 @@ export const skillsData = [
   },
   {
     id: 6,
+    text: "TypeScript",
+    img: "/assets/skills/typescript.svg",
+  },
+  {
+    id: 7,
     text: "Tailwind",
     img: "/assets/skills/tailwindcss.svg",
   },
   {
-    id: 7,
+    id: 8,
     text: "Bootstrap",
     img: "/assets/skills/bootstrap.svg",
   },
   {
-    id: 8,
+    id: 9,
+    text: "Material UI",
+    img: "/assets/skills/material-ui.svg",
+  },
+  {
+    id: 10,
     text: "Sass",
     img: "/assets/skills/sass.svg",
   },
   {
-    id: 9,
-    text: "Git",
-    img: "/assets/skills/git-icon.svg",
+    id: 11,
+    text: "Python",
+    img: "/assets/skills/python.svg",
   },
   {
-    id: 10,
+    id: 12,
+    text: "Django",
+    img: "/assets/skills/django.svg",
+  },
+  {
+    id: 13,
     text: "Node Js",
     img: "/assets/skills/nodejs.svg",
   },
   {
-    id: 11,
+    id: 14,
+    text: "Express",
+    img: "/assets/skills/express.svg",
+  },
+  {
+    id: 15,
     text: "MongoDB",
     img: "/assets/skills/mongodb.svg",
+  },
+  {
+    id: 16,
+    text: "PostgreSQL",
+    img: "/assets/skills/postgresql.svg",
+  },
+  {
+    id: 17,
+    text: "Git",
+    img: "/assets/skills/git-icon.svg",
+  },
+  {
+    id: 18,
+    text: "Linux",
+    img: "/assets/skills/linux.svg",
   },
 ];
