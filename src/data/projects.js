@@ -61,6 +61,21 @@ export const projectsData = [
   },
   {
     id: 5,
+    title: "The CRM Experience",
+    subtitle: "Python, Django, HTML, Bootstrap, SQLite",
+    content:
+      "FullStack Customer Management Platform (CRM). Powerful tool that helps businesses organize and manage their customers and purchase orders.\nIncluding User Authentication, roles and permissions.\nPre-builded login credentials\nAdmin user:\nUsername: user\nPassword: userpassword\nAuthorized to create, update and delete orders.\nCustomer / regular user:\nUsername: user1\nPassword: user1password\nAuthorized only to view orders and modify profile information.",
+    link: {
+      code: "https://github.com/gonzalo-fuente/The_CRM_Experience",
+      page: "https://the-crm-experience.onrender.com/",
+    },
+    img: {
+      src: "/assets/projects/The-CRM-experience.png",
+      alt: "The CRM experience screenshot",
+    },
+  },
+  {
+    id: 6,
     title: "Space Travel Website",
     subtitle: "React - React Router - CSS",
     content:
@@ -75,7 +90,7 @@ export const projectsData = [
     },
   },
   {
-    id: 6,
+    id: 7,
     title: "Manage Landing Page",
     subtitle: "React - Tailwind",
     content:
@@ -90,7 +105,7 @@ export const projectsData = [
     },
   },
   {
-    id: 7,
+    id: 8,
     title: "Employees Administration Panel",
     subtitle: "React - Redux - Thunk - Bootstrap",
     content:
@@ -105,7 +120,7 @@ export const projectsData = [
     },
   },
   {
-    id: 8,
+    id: 9,
     title: "Tenzies Game",
     subtitle: "React - CSS",
     content: `A single version of popular Tenzies game.
@@ -125,7 +140,7 @@ export const projectsData = [
     },
   },
   {
-    id: 9,
+    id: 10,
     title: "Markdown Notes Editor",
     subtitle: "React - React-mde - React-split - CSS",
     content: `Markdown Notes Editor build in React using external libraries, such as react-mde, react-split and showdown. For the moment, the notes are saved in localStorage.
@@ -140,7 +155,7 @@ export const projectsData = [
     },
   },
   {
-    id: 10,
+    id: 11,
     title: "Meme Generator",
     subtitle: "React - CSS",
     content:
@@ -155,7 +170,7 @@ export const projectsData = [
     },
   },
   {
-    id: 11,
+    id: 12,
     title: "FK-Bootcamp Landing Page",
     subtitle: "React - Bootstrap",
     content: "Fake Bootcamp landing page to skill up in Bootstrap.",
@@ -169,7 +184,7 @@ export const projectsData = [
     },
   },
   {
-    id: 12,
+    id: 13,
     title: "Huddle Landing Page",
     subtitle: "React - Styled Components",
     content:
@@ -184,7 +199,7 @@ export const projectsData = [
     },
   },
   {
-    id: 13,
+    id: 14,
     title: "Book Reading App",
     subtitle: "React - Context API - CSS",
     content: "Book reading app using Context API and Hooks.",
@@ -198,7 +213,7 @@ export const projectsData = [
     },
   },
   {
-    id: 14,
+    id: 15,
     title: "JavaScript Calculator",
     subtitle: "React - Tailwind",
     content:
